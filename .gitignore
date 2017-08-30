@@ -1,4 +1,19 @@
-.idea/libraries
-.idea/tasks.xml
-.idea/workspace.xml
+# Idea files #
+##############
+.idea/
+*/.idea/*
+*.iml
+
+# Eclipse    #
+##############
+.classpath
+.project
+.settings/
+
+.tmp
 target
+
+
+tmp*.json
+.DS_Store
+
